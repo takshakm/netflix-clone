@@ -1,5 +1,5 @@
-# netflix-clone
-This is my First project, it's a clone of the famous Netflix.
+# link
+https://fanciful-daifuku-75b7c3.netlify.app/
 # netflix-clone
 This is the first ever Webpage I ever created, a clone of Netflix India Sign In Page.
 <br>
