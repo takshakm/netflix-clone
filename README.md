@@ -1,11 +1,12 @@
-# netflix-clone
-This is my First project, it's a clone of the famous Netflix.
+# link
+https://fanciful-daifuku-75b7c3.netlify.app/
 # netflix-clone
 This is the first ever Webpage I ever created, a clone of Netflix India Sign In Page.
 <br>
 This clone has been developed by using HTML & CSS.
 <br>
 It is also Responsive for multiple displays.
+**(the site might have some alingment problems in mobile devices)**
 
 # Screenshots
 ![netflix-clone-screenshot](https://user-images.githubusercontent.com/114814639/208871806-99073980-9462-4909-a3ab-b5c2fb052ab8.png)
