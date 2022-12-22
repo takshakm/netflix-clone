@@ -1,5 +1,5 @@
 # link
-https://fanciful-daifuku-75b7c3.netlify.app/
+https://tm-netflix-clone.netlify.app/
 # netflix-clone
 This is the first ever Webpage I ever created, a clone of Netflix India Sign In Page.
 <br>
