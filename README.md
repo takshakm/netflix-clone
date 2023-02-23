@@ -25,12 +25,4 @@ Go to project directory
 <br>
 `cd netflix-clone`
 <br>
-Install dependencies
-<br>
-`npm install`
-<br>
-Run the development server:
-<br>
-`npm run start`
-<br>
 ### Open localhost in your browser to see the result.
